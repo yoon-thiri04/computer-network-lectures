@@ -26,7 +26,9 @@
 ### Encapsulation
 > 🔗 The process starts at layer7( the application layer) and then moves from layer to layer in descending, sequential order.
 
-> 🔗 At each layer, a header can be added to the data unit. At layer2, a trailer may also be added and then pass into physical layer (layer1). 
+> 🔗 At each layer, a header can be added to the data unit. At layer2, a trailer may also be added and then pass into physical layer (layer1).
+
+> 🔗 its destination, the signal passes into layer1 and each block of data reaches the next highter layer, 
 
 
 

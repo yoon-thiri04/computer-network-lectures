@@ -1,12 +1,12 @@
 ## OSI Model
 
-> 💡International Standard Organisation(`ISO`) is a multinational body dedicated to the world wide agreement on international standard.
+💡International Standard Organisation(`ISO`) is a multinational body dedicated to the world wide agreement on international standard.
 
-> 💡The ISO standard that covers all aspects of the network communications is the **`Open System Interconnections (OSI)`** model
+💡The ISO standard that covers all aspects of the network communications is the **`Open System Interconnections (OSI)`** model
 
-> 💡ISO is the organization, OSI is a model. OSI model is not a protocol, it is a model for understanding and designing a network architecture.
+💡ISO is the organization, OSI is a model. OSI model is not a protocol, it is a model for understanding and designing a network architecture.
 
-> 💡The OSI model is a layered framework for the design of network systems that allow communications between all types of computer system.
+💡The OSI model is a layered framework for the design of network systems that allow communications between all types of computer system.
 
 <img src="https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/3807d5bd-4c57-4cef-bb1b-3baebea437e3" alt="OSI model Layer" width="500" text-align="center" />
 

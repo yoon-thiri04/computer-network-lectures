@@ -1,3 +1,5 @@
+![studyG](https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/7370b441-9698-412c-a769-2b8eb9852dfd)
+
 # CST-401 Lecture Notes
 
 Welcome to the repository for my CST-401 lecture notes!
@@ -22,5 +24,3 @@ CST-401/
 │   └── ...
 └── ...
 ```
-![chill](https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/36f09080-73fe-46be-85de-9923200eea7f)
-

@@ -13,22 +13,23 @@
 
 ## Layered Architecture
 ### Layer-to-layer Communication
-> 💻 Device A sends a message to the device B. (through intermediate nodes)
+💻 Device A sends a message to the device B. (through intermediate nodes)
 
-> 💻 At the sending site, the message is moved down from layer7 to layer1.
+💻 At the sending site, the message is moved down from layer7 to layer1.
 
-> 💻 At layer1, the entire package is converted to the form that can be transferred to the receiving site.
+💻 At layer1, the entire package is converted to the form that can be transferred to the receiving site.
 
-> 💻 At the receiving site, the message is moved up from layer1 to layer7.
+💻 At the receiving site, the message is moved up from layer1 to layer7.
 
 <img src="https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/f490b78d-c6a4-4de1-8863-5cdeba44b3e9" alt="layer to layer architecture" width="500"/>
 
 ### Encapsulation
-🔗 The process starts at layer7( the application layer) and then moves from layer to layer in descending, sequential order.
+✏️ The process starts at layer7( the application layer) and then moves from layer to layer in descending, sequential order.
 
-🔗 At each layer, a header can be added to the data unit. At layer2, a trailer may also be added and then pass into physical layer (layer1).
+✏️ At each layer, a header can be added to the data unit. At layer2, a trailer may also be added and then pass through physical layer (layer1).
 
-🔗 its destination, the signal passes into layer1 and each block of data reaches the next highter layer, the headers and trailers attached are removed.
+✏️ its destination, the signal passes into layer1 and each block of data reaches the next highter layer, the headers and trailers attached are removed.
+
 
 
 

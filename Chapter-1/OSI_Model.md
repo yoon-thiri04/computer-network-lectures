@@ -10,7 +10,7 @@
 
 <img src="https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/3807d5bd-4c57-4cef-bb1b-3baebea437e3" alt="OSI model Layer" width="500" text-align="center" />
 
-
+---
 ## Layered Architecture
 ### Layer-to-layer Communication
 💻 Device A sends a message to the device B. (through intermediate nodes)
@@ -23,6 +23,7 @@
 
 <img src="https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/f490b78d-c6a4-4de1-8863-5cdeba44b3e9" alt="layer to layer architecture" width="500"/>
 
+---
 ### Encapsulation
 ✏️ The process starts at layer7( the application layer) and then moves from layer to layer in descending, sequential order.
 
@@ -31,7 +32,7 @@
 ✏️ its destination, the signal passes into layer1 and each block of data reaches the next highter layer, the headers and trailers attached are removed.
 
 <img src="https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/48937219-480f-4b29-9f20-d941e921c3a4" alt="Encapsulation" width=500/>
-
+---
 
 ## Physical Layer
 
@@ -49,7 +50,8 @@ layer is moving individual bit from one node to the next.
    - 🥤**Transmission mode:** It also defines the direction of transmission between two devices, simplex, half-duplex, full-duplex.
       - 👤 In simplex mode, only one device can send a message and the other can only receive ( a one-way communication➡️)
       - 👥 In half-duplex mode, two devices can send and receive but not at the same time.🔃
-      - 
+      - 👥 In full-duplex mode, two devices can send and receive at the same time.🔄
+---
    
 
 

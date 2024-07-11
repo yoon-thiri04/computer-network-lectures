@@ -40,8 +40,10 @@ layer is moving individual bit from one node to the next.
 
 ☎️ Physical layer is also concerned with the following:
 
-   - **Physcical characteristics of interfaces and media:** It defines the characteristics of the interface between devices and the transmission media.
-   - **Representation of bits:** It data contains a stream of bits (0s or 1s) with no interpetation. To be transmitted, bits must be encoded into signals (electrical or optical).
+   - 🥤**Physcical characteristics of interfaces and media:** It defines the characteristics of the interface between devices and the transmission media.
+   - 🥤**Representation of bits:** It data contains a stream of bits (0s or 1s) with no interpetation. To be transmitted, bits must be encoded into signals (electrical or optical).
+   - **Data rate:** The transmission rate (the number of bits sent each second).
+   - **Synchronization of bits:** The sender and receiver must not use the same bit rate but must be synchronized at the bit level.
    
 
 

@@ -33,4 +33,9 @@
 <img src="https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/48937219-480f-4b29-9f20-d941e921c3a4" alt="Encapsulation" width=500/>
 
 
+## Physical Layer
+
+☎️ To carry a bit stream over a physical medium.
+
+
 

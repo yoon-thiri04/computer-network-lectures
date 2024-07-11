@@ -35,7 +35,11 @@
 
 ## Physical Layer
 
-☎️ To carry a bit stream over a physical medium.
+☎️ To carry a bit stream over a physical medium. It deals with the mechanical and electrical specifications between interface and transmission media. Physical
+layer is moving individual bit from one node to the next.
+
+☎️ Physical layer is also concerned with the following:
+   
 
 
 

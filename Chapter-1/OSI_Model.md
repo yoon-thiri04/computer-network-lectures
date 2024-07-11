@@ -45,7 +45,11 @@ layer is moving individual bit from one node to the next.
    - 🥤**Data rate:** The transmission rate (the number of bits sent each second).
    - 🥤**Synchronization of bits:** The sender and receiver must not use the same bit rate but must be synchronized at the bit level.
    - 🥤**Line Configuration:** It concerned with the connection of devices to a media. In a point to point configuration, two devices are connected through a dedicated link. In a multipoint configuration, a link is shared between several devices.
-   - 🥤**Physical Topology:** It defines the connection of devices to a network.
+   - 🥤**Physical Topology:** It defines the connection of devices to a network. Devices can be connected using a mesh 🖥️ topology, a star⭐ topology, a ring💍 topology, a bus🚌 topology.
+   - 🥤**Transmission mode:** It also defines the direction of transmission between two devices, simplex, half-duplex, full-duplex.
+      - 👤 In simplex mode, only one device can send a message and the other can only receive ( a one-way communication➡️)
+      - 👥 In half-duplex mode, two devices can send and receive but not at the same time.🔃
+      - 
    
 
 

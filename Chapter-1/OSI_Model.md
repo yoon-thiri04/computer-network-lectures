@@ -32,8 +32,8 @@
 ✏️ its destination, the signal passes into layer1 and each block of data reaches the next highter layer, the headers and trailers attached are removed.
 
 <img src="https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/48937219-480f-4b29-9f20-d941e921c3a4" alt="Encapsulation" width=500/>
----
 
+---
 ## Physical Layer
 
 ☎️ To carry a bit stream over a physical medium. It deals with the mechanical and electrical specifications between interface and transmission media. Physical
@@ -51,6 +51,10 @@ layer is moving individual bit from one node to the next.
       - 👤 In simplex mode, only one device can send a message and the other can only receive ( a one-way communication➡️)
       - 👥 In half-duplex mode, two devices can send and receive but not at the same time.🔃
       - 👥 In full-duplex mode, two devices can send and receive at the same time.🔄
+
+### Type of Topologies 
+![network](https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/cb236376-89ef-4b79-abbe-598a24527565)
+
 ---
    
 

@@ -91,3 +91,4 @@ frame. If the frame is intented for a system outside the sender network, the rec
    - 🚧 **Connection control:** Transport layer can be either **connectionless** or **connectionoriented**.
         - 🧢 **Connectionless** treats each segment as the independent packet and deliver to the destionation machine.
         - 🧢 **Connectonoriented** makes the connection with the destionation machine first before delievering the packets. After all the data transferred, the connection is terminated.
+   - 🚧 **

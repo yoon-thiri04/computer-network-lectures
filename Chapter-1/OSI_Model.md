@@ -88,3 +88,6 @@ frame. If the frame is intented for a system outside the sender network, the rec
 
    - 🚧 **Service-point addressing:** Source-to-destination delivery not only from one computer to the next but aslo from the specific process (running program ☄️) on one computer to on the other. Tranport layer header include the type of address called the **service-point address**, gets the entire message to the correct process on that computer.
    - 🚧 **Segmentation and reassembly:** The message is divided into transmittable segments, containing a sequence number. These numbers enable to reassemble the message correctly arriving at the destination, and that were lost in the transmission.
+   - 🚧 **Connection control:** Transport layer can be either **connectionless** or **connectionoriented**.
+        - 🧢 **Connectionless** treats each segment as the independent packet and deliver to the destionation machine.
+        - 🧢 **Connectonoriented** makes the connection with the destionation machine first before delievering the packets. After all the data transferred, the connection is terminated.

@@ -56,7 +56,6 @@ layer is moving individual bit from one node to the next.
 ![network](https://github.com/yoon-thiri04/computer-network-lectures/assets/152978538/cb236376-89ef-4b79-abbe-598a24527565)
 
 ---
-   
+## Data Link Layer
 
-
-
+🔗 The data link layer transforms the physical layer into 

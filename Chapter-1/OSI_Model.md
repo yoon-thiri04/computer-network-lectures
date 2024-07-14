@@ -58,4 +58,10 @@ layer is moving individual bit from one node to the next.
 ---
 ## Data Link Layer
 
-🔗 The data link layer transforms the physical layer into 
+🔗 The data link layer transforms the physical layer to a reliable link, it makes error free to the upper layer (Network layer). 
+
+🔗 Other responsibilities of the data link layer include the following:
+
+   - 🥦 **Framing:** It divides the stream of bits received form the network layer into frames.
+   - 🥦 **Physical Addressing:** If the frames are to be distributed to on the network, add a header to the frame to determine the sender and/or receiver of the
+frame. If the frame is intented for a system outside the sender network, the reciever address is the address of the connect the networok layer to the next one.

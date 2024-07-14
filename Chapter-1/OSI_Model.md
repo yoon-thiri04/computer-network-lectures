@@ -78,3 +78,12 @@ frame. If the frame is intented for a system outside the sender network, the rec
 
    - 🍙 **Logical addressing:** If the packet passes the network boundary, need another addressing system to distinguish the source and destination of the system. The network layer adds the header to the packet coming from the upper layer.
    - 🍙 **Routing:** When internet works a large network, route or switch is to provide the packets to their destination.
+
+---
+## Transport Layer
+
+📥 Transport layer is responsible for **process-to-process** delivery of the entire message. The process is an application program running on the host. Transport layer ensures that the whole message arrives intact and in order, both error control and flow control at the **source-to-destination** level.
+
+📥 Other responsibilites of the transport layer include the following:
+
+    - 🚧 **Service-point addressing:**

@@ -71,3 +71,10 @@ frame. If the frame is intented for a system outside the sender network, the rec
 
 ---
 ## Network Layer
+
+📰 Network layer is responsible for a **source-to-destination** delivery of the packet, possibly across multiple networks(links). If two systems are connected to the same link, there is no need for network layer. However, if the two systems are attached to the different network, there is need for the network layer.
+
+📰 Other responsibilities of the network layer include the following:
+
+   - 🍙 **Logical addressing:** If the packet passes the network boundary, need another addressing system to distinguish the source and destination of the system. The network layer adds the header to the packet coming from the upper layer.
+   - 🍙 **Routing:** When internet works a large network, route or switch is to provide the packets to their destination.

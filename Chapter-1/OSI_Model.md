@@ -66,4 +66,8 @@ layer is moving individual bit from one node to the next.
    - 🧊 **Physical Addressing:** If the frames are to be distributed to on the network, add a header to the frame to determine the sender and/or receiver of the
 frame. If the frame is intented for a system outside the sender network, the reciever address is the address of the connect the networok layer to the next one.
    - 🧊 **Flow Control:** If the rate at which the data is absorted by the receiver is less than the rate produced at the sender, it imposes a flow control mechenism to prvent overwhelming the receiver.
-   - 🧊 **Error Control:** It adds the reliability to the physical layer by adding to detect and retransmit the damaged or lost frames. It also recognize the duplicated frames. Error control is normally a trailer added to the end of the frame.
+   - 🧊 **Error Control:** It adds the reliability to the physical layer by adding to detect and retransmit the damaged or lost frames. It also recognize the duplicate frames. Error control is normally a trailer added to the end of the frame.
+   - 🧊 **Access Control:** When two or more devices are connected to the same link, it determines which device has over the link at time.
+
+---
+## Network Layer

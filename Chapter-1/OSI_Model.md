@@ -86,4 +86,4 @@ frame. If the frame is intented for a system outside the sender network, the rec
 
 📥 Other responsibilites of the transport layer include the following:
 
-    - 🚧 **Service-point addressing:**
+   - 🚧 **Service-point addressing:** Source-to-destination delivery not only from one computer to the next but aslo from the specific process (running program ☄️) on one computer to on other. Tranport layer header include the type of address called the **service-point address**, gets the entire message to the correct process on that computer.

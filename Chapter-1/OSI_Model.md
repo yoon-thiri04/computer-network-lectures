@@ -91,4 +91,5 @@ frame. If the frame is intented for a system outside the sender network, the rec
    - 🚧 **Connection control:** Transport layer can be either **connectionless** or **connectionoriented**.
         - 🧢 **Connectionless** treats each segment as the independent packet and deliver to the destionation machine.
         - 🧢 **Connectonoriented** makes the connection with the destionation machine first before delievering the packets. After all the data transferred, the connection is terminated.
-   - 🚧 **
+   - 🚧 **Flow Control:** Like the data link layer. However, the flow control is performed end to end rather than across a single link.
+   - 🚧 **Error Control:** Like the data link layer. However, the error control is performed process to process rather than across a single link. The sending makes sure that the entire message arrives with no error (damaged, lost or duplicate). Error correcti

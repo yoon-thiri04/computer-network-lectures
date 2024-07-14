@@ -93,3 +93,5 @@ frame. If the frame is intented for a system outside the sender network, the rec
         - 🧢 **Connectonoriented** makes the connection with the destionation machine first before delievering the packets. After all the data transferred, the connection is terminated.
    - 🚧 **Flow Control:** Like the data link layer. However, the flow control is performed end to end rather than across a single link.
    - 🚧 **Error Control:** Like the data link layer. However, the error control is performed process to process rather than across a single link. The sending makes sure that the entire message arrives at the receiving with no error  (damage, lost or duplicate). Error correction is usually achieved through retransmission.
+
+---
